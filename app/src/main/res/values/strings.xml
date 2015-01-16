@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="items">
+        <item>Africa</item>
+        <item>Belize</item>
+        <item>Sao Paulo</item>
+        <item>Vienna</item>
+        <item>Morocco</item>
+        <item>Switzerland</item>
+        <item>Russia</item>
+        <item>England</item>
+        <item>Canada</item>
+        <item>Fiji</item>
+        <item>Turkey</item>
+        <item>Majorca</item>
+        <item>China</item>
+        <item>Ghana</item>
+        <item>Peru</item>
+        <item>Chile</item>
+    </string-array>
+
+</resources>
